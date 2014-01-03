@@ -327,7 +327,7 @@ $config['proxy_ips'] = "";
 /**
  * Require the Focus Lab, LLC Master Config file
  */
-require $_SERVER['DOCUMENT_ROOT'] . '/home/102864/domains/dev.whatsinseasontoday.com/html/config/config.master.php';
+require $_SERVER['DOCUMENT_ROOT'] . '/config/config.master.php';
 
 
 /* End of file config.php */
