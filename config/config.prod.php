@@ -10,7 +10,7 @@
  * @author     Focus Lab, LLC <dev@focuslabllc.com>
  */
 
-$env_db['hostname'] = 'localhost';
+$env_db['hostname'] = 'internal-db.s102864.gridserver.com';
 $env_db['username'] = 'db102864_admin';
 $env_db['password'] = 'd9d14d88';
 $env_db['database'] = 'db102864_seasonsee';
