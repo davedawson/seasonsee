@@ -15,7 +15,7 @@
 if ( ! defined('ENV'))
 {
 	switch (strtolower($_SERVER['HTTP_HOST'])) {
-		case 'whatsinseasontoday.com' :
+		case 'dev.whatsinseasontoday.com' :
 			define('ENV', 'prod');
 			define('ENV_FULL', 'Production');
 			define('ENV_DEBUG', FALSE);
