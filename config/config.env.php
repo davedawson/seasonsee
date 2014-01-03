@@ -27,7 +27,7 @@ if ( ! defined('ENV'))
 			define('ENV_DEBUG', FALSE);
 		break;
 
-		case 'dev.whatsinseasontoday.com' :
+		case 'devsite.whatsinseasontoday.com' :
 			define('ENV', 'dev');
 			define('ENV_FULL', 'Development');
 			define('ENV_DEBUG', TRUE);
