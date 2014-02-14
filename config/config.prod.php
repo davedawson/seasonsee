@@ -11,8 +11,8 @@
  */
 
 $env_db['hostname'] = 'internal-db.s102864.gridserver.com';
-$env_db['username'] = 'db102864_admin';
-$env_db['password'] = 'd9d14d88';
+$env_db['username'] = 'db102864';
+$env_db['password'] = 'd9d14d85';
 $env_db['database'] = 'db102864_seasonsee';
 
 // Sample global variable for Production only
